@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SJMIS (H)</string>
+    <string name="default_bangla_font">android2.ttf</string>
+    <string name="app_version">অ্যাপ ভার্সন</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="registers_home_toolbar">রেজিস্ট্রার সমূহ</string>
+    <string name="server_sync_toolbar">সার্ভারে তথ্য সরবারহ</string>
+    <string name="data_summery_toolbar">তথ্য বাতায়ান</string>
+
+    <string name="my_account">আমার একাউন্ট</string>
+    <string name="internet_usages">ইন্টারনেট ব্যাবহার</string>
+    <string name="location_settings">লোকেশন সেটিংস</string>
+    <string name="language_settings">ভাষা সেটিংস</string>
+    <string name="data_backup">তথ্য সংরক্ষন</string>
+    <string name="change_password">পাসওয়ার্ড পরিবর্তন</string>
+    <string name="help">সাহায্য</string>
+    <string name="old_slum">পুরনো বাড়ির তথ্য</string>
+    <string name="reserve_id">নির্ধারিত আইডি সমুহ</string>
+    <string name="logout">লগআউট</string>
+
+    <string name="data_backup_message">আপনি কি তথ্য ইমেইল করতে চাচ্ছেন?</string>
+    <string name="logout_warning_message">লগ আউট করতে যাচ্ছেন?</string>
+    <string name="something_wrong">কিছু ভুল হয়েছে</string>
+    <string name="logging_out">লগ আউট হচ্ছে...</string>
+    <string name="great">দারুন</string>
+    <string name="logout_success">আপনার লগ আউট সফল হয়েছে</string>
+    <string name="thanks">ধন্যবাদ</string>
+
+    <string name="mnchn">এম.এন.সি.এইচ.এন</string>
+    <string name="shn">এস.এইচ.এন</string>
+    <string name="registration">রেজিস্ট্রেশন</string>
+    <string name="new_born">নবজাতক (০-০২ মাস)</string>
+    <string name="children">শিশু (০২-৫৯ মাস)</string>
+    <string name="moni_mix">মনিমিক্স ফলোআপ</string>
+    <string name="iron_calcium">আয়রন/ক্যালসিয়াম ফলোআপ</string>
+    <string name="vaccine">টিকা তথ্য ফলোআপ</string>
+    <string name="community">কমিউনিটি</string>
+    <string name="deworming">ডিওয়ার্মিং</string>
+    <string name="session">সেশন</string>
+    <string name="rc_session">আর. সি. সেশন</string>
+    <string name="court_yard">উঠান বৈঠক</string>
+    <string name="gmp">জি.এম.পি</string>
+    <string name="ad">এডলোসেন্ট</string>
+    <string name="anc">গর্ভবতী মা</string>
+    <string name="pnc">প্রসূতি মা</string>
+
+    <string name="not_identified">সনাক্ত করেনি</string>
+    <string name="male">পুরুষ</string>
+    <string name="female">মহিলা</string>
+    <string name="ben_selection">সুবিধাভোগী নির্বাচন</string>
+    <string name="select">সিলেক্ট করুন</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="name">নাম</string>
+    <string name="id">আইডি</string>
+    <string name="disqualified_for_service">সেবা পাওয়ার অযোগ্য</string>
+    <string name="qualified_for_service">সেবা পাওয়ার যোগ্য</string>
+    <string name="want_to_give_service">সেবা দিতে চাচ্ছেন?</string>
+    <string name="want_to_see_registration">আপনি কি রেজিস্ট্রেশন তথ্য দেখবেন?</string>
+    <string name="house_no">ঘর নম্বর</string>
+    <string name="no_data">তথ্য নেই</string>
+    <string name="no_ben_selected">সুবিধাভোগী নির্বাচন করেনি</string>
+    <string name="ben_list">সুবিধাভোগীর তালিকা</string>
+
+    <string name="userId">ব্যাবহারকারী আইডি</string>
+    <string name="login_id">লগিন আইডি</string>
+    <string name="designation">পদবী</string>
+    <string name="organization">প্রতিষ্ঠান</string>
+
+    <string name="no_location">লোকেশন সার্ভিস ত্রুটি!</string>
+
+    <string name="want_to_sync">সার্ভারে তথ্য পাঠাতে চাচ্ছেন?</string>
+    <string name="sync_syncing_text">তথ্য পাঠানো হচ্ছে...</string>
+    <string name="sync_success_text">তথ্য পাঠানো সফল হয়েছে</string>
+    <string name="sync_partial_text">তথ্য পাঠানো আংশিক সফল হয়েছে</string>
+    <string name="sync_finished_text">তথ্য পাঠানো শেষ হয়েছে</string>
+    <string name="sync_failed_text">তথ্য পাঠানো বিফল হয়েছে</string>
+    <string name="geo_fetch_warning_text">লোকেশন ডাউনলোড করতে চান?</string>
+    <string name="crash_sending_stop">অ্যাপ্লিকেশানের ত্রুটি পাঠানো শেষ</string>
+    <string name="geo_missing">লোকেশন ত্রুটি! দয়াকরে সার্ভার থেকে লোকেশন ডাউনলোড করুন</string>
+    <string name="location">লোকেশন</string>
+    <string name="geo_code">কোড</string>
+    <string name="geo_name">লোকেশনের নাম</string>
+    <string name="enter_meeting_place">সভার স্থান প্রবেশ করুন</string>
+    <string name="download_registration_data">দয়াকরে সর্বপ্রথম রেজিষ্ট্রেশন তথ্য ডাউনলোড করে নিন</string>
+    <string name="want_to_download_registration_data">রেজিষ্ট্রেশন তথ্য ডাউনলোড করতে চান?</string>
+    <string name="another_service_running">অন্য একটি প্রক্রিয়া চালু আছে</string>
+    <string name="db_exported">আপনার ডাটাবেইস সফলভাবে আলাদা ফাইলে রুপান্তরিত হয়েছে</string>
+    <string name="sorry">দুঃখিত!</string>
+    <string name="ben_already_exist">বেনিফিশিয়ারি ইতিমধ্যে রয়েছে</string>
+    <string name="alert_date_exist">তারিখ ইতিমধ্যে সংরক্ষিত আছে</string>
+
+    <string name="login_success">আপনার লগইন সফল হয়েছে</string>
+    <string name="login_failed">আপনার লগইন বিফল হয়েছে</string>
+    <string name="validation_error">তথ্য সঠিক নয়</string>
+    <string name="login">লগইন</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="exit_message">আপনি কি অ্যাপ থেকে বের হতে চাচ্ছেন?</string>
+    <string name="logging_in">লগইন হচ্ছে...</string>
+    <string name="getting_ready">প্রস্তুত হচ্ছে...</string>
+    <string name="crash_message">অ্যাপ্লিকেশানে সাময়িক ত্রুটি দেখা দিয়েছে</string>
+    <string name="crash">অ্যাপ্লিকেশান ত্রুটি</string>
+
+    <string name="permission_failed">আপনার অনুমতি পাওয়া হল না!</string>
+    <string name="permission_message_twice">পুনরায় অনুমতি বিবেচনায় সেটিংসে প্রবেশ করুন</string>
+    <string name="internet_usages_limit_label">এই মাসের মোট সীমার মধ্যে ব্যাবহার</string>
+    <string name="internet_usages_today">আজকে ব্যাবহৃত ইন্টারনেট</string>
+    <string name="internet_usages_1_15">Data (MB) নির্বাচিত মাসের ১ম দিন থেকে ১৫তম দিন পর্যন্ত ব্যাবহার হয়েছে</string>
+    <string name="internet_usages_16_30">Data (MB) নির্বাচিত মাসের ১৬তম দিন থেকে ৩০তম দিন পর্যন্ত ব্যাবহার হয়েছে</string>
+    <string name="internet_usages_16_29">Data (MB) নির্বাচিত মাসের ১৬তম দিন থেকে ২৯তম দিন পর্যন্ত ব্যাবহার হয়েছে</string>
+    <string name="internet_usages_16_31">Data (MB) নির্বাচিত মাসের ১৬তম দিন থেকে ৩১তম দিন পর্যন্ত ব্যাবহার হয়েছে</string>
+
+    <string name="id_download_warning">আপনি কি আইডি ডাউনলোড করতে যাচ্ছেন?</string>
+    <string name="slum_download_warning">আপনি কি পুরনো বাড়ির তথ্য ডাউনলোড করতে যাচ্ছেন?</string>
+    <string name="slum_downloaded">টি বাড়ির (Slum) তথ্য ডাউনলোড হয়েছে</string>
+    <string name="catchment_area_download_success">পুরনো বাড়ির তথ্য ডাউনলোড সফল হয়েছে</string>
+    <string name="slum_download_again">পুরনো বাড়ির (Slum) তথ্য পুনরায় ডাউনলোড করুন</string>
+    <string name="slum_download">পুরনো বাড়ির (Slum) তথ্য ডাউনলোড করুন</string>
+    <string name="unused_reserved_id">অব্যাবহিত নির্ধারিত আইডি জমা আছে</string>
+    <string name="benIdList">সুবিধাভোগীর নির্ধারিত আইডি সমুহ</string>
+    <string name="hhIdList">হাউজহোল্ড নির্ধারিত আইডি সমুহ</string>
+    <string name="new_id">নতুন আইডি ডাউনলোড</string>
+    <string name="send_to_server">সার্ভারে পাঠান</string>
+    <string name="sync_50_by_50">৫০ টি ডাটা করে আপলোড হবে</string>
+    <string name="no_internet_title">নেটওয়ার্ক ত্রুটি!</string>
+    <string name="no_internet_message">দয়াকরে ইন্টারনেট সচল করুন</string>
+    <string name="delete">মুছে ফেলুন</string>
+    <string name="do_select">সিলেক্ট</string>
+    <string name="do_cancel">বাতিল</string>
+    <string name="gps_track_failed">সঠিক লোকেশন না পাওয়া পর্যন্ত অপেক্ষা করুন</string>
+    <string name="no_gps_title">লোকেশন সার্ভিস ত্রুটি!</string>
+    <string name="no_gps_message">দয়াকরে লোকেশন সার্ভিস সচল করুন</string>
+    <string name="select_correct_data">সঠিক তথ্য নির্বাচন করুন</string>
+    <string name="letter_require">অক্ষর প্রয়োজন</string>
+    <string name="minimum">সর্বনিম্ন</string>
+    <string name="input_home_no">বাড়ির নম্বর প্রবেশ করুন</string>
+    <string name="toilet_exist">ইতিমধ্যে রয়েছে, অন্য নম্বর সিলেক্ট করুন</string>
+
+    <string name="visit_no">ভিজিট নম্বর</string>
+    <string name="last_update">সর্বশেষ সম্পাদন</string>
+    <string name="meeting_place">সভার স্থান</string>
+    <string name="start_date">শুরুর তারিখ</string>
+    <string name="meeting_no">সভা নং</string>
+    <string name="date">তারিখ</string>
+    <string name="subject">বিষয়</string>
+    <string name="attendance">উপস্থিতি</string>
+    <string name="message_no">বার্তা নম্বর</string>
+    <string name="weight_kg">ওজন (কে.জি)</string>
+    <string name="height_cm">উচ্চতা (সে. মি.)</string>
+    <string name="muac_cm">মুয়াক (সে. মি.)</string>
+
+    <!--Registration-->
+    <string name="home_no">বাড়ির নম্বর</string>
+    <string name="home_name">বাড়ির নাম</string>
+    <string name="household_id">হাউজ হোল্ড আইডি</string>
+    <string name="digit_hint">নম্বর লিখুন</string>
+    <string name="name_hint">নাম লিখুন</string>
+    <string name="commodities">আসবাবপত্র</string>
+    <string name="house_condition">ঘরের অবস্থা</string>
+    <string name="domestic_animals">গবাদি পশু-পাখি</string>
+    <string name="data_provider_name">তথ্য দাতা</string>
+    <string name="data_collection_date">তথ্য সংগ্রহের তারিখ</string>
+    <string name="family_head_name">পরিবার প্রধান</string>
+    <string name="family_head_prof">পরিবার প্রধানের পেশা</string>
+    <string name="father_husband">পিতা / স্বামী</string>
+    <string name="family_monthly_income">পরিবারের মাসিক আয়</string>
+    <string name="family_designation">পরিবারের পদবী</string>
+    <string name="family_language">পরিবারের ভাষা</string>
+    <string name="family_total_member">সদস্য সংখ্যা</string>
+    <string name="household_service">হাউজ হোল্ড সেবা</string>
+    <string name="cultivate_land">চাষাবাদ জমি (শতকে)</string>
+    <string name="own">নিজ</string>
+    <string name="sublease">বর্গা</string>
+    <string name="pawned">বন্ধকী</string>
+    <string name="resident">বাসিন্দা</string>
+    <string name="resident_style">বসত ভিটার বিবরন</string>
+    <string name="family_member_info">সদস্যদের তথ্য</string>
+    <string name="no_data_message">কোন তথ্য নেই</string>
+    <string name="unique_id">ইউনিক আইডি</string>
+    <string name="first_name">প্রথম নাম</string>
+    <string name="middle_name">মধ্য নাম</string>
+    <string name="last_name">শেষ নাম</string>
+    <string name="full_name">সম্পূর্ন নাম</string>
+    <string name="family_head_relation">পরিবার প্রধানের সম্পর্কে</string>
+    <string name="guessed">আনুমানিক</string>
+    <string name="year">বছর</string>
+    <string name="month">মাস</string>
+    <string name="day">দিন</string>
+    <string name="gender">লিঙ্গ</string>
+    <string name="is_pregnant">গর্ভবতী কিনা</string>
+    <string name="see_info">তথ্য দেখুন</string>
+    <string name="marital_status">বৈবাহিক অবস্থা</string>
+    <string name="has_birth_id">জন্মনিবন্ধন আছে</string>
+    <string name="has_autism">প্রতিবন্ধিতা আছে</string>
+    <string name="educational_qualification">শিক্ষাগত যোগ্যতা</string>
+    <string name="go_school">স্কুলে যায়</string>
+    <string name="school_type">স্কুলের ধরন</string>
+    <string name="school_name">স্কুলের নাম</string>
+    <string name="child_labour">কর্মজিবি শিশু</string>
+    <string name="icdp_service_taken">আইসিডিপি সেবা গ্রহণ</string>
+    <string name="taken_service_name">গৃহিত সেবার নাম</string>
+    <string name="service_org_name">সেবা দানকারী সংগঠন</string>
+    <string name="service_org_other_name">ভিন্ন সংগঠন হলে নাম</string>
+    <string name="phone_no">মোবাইল</string>
+    <string name="active_mobile">মোবাইল নম্বর সচল</string>
+    <string name="want_mobile_sms">মোবাইল বার্তা পেতে চান</string>
+    <string name="sponsor_enrolled">স্পন্সর এনরল্ড</string>
+    <string name="other_ngo_engaged">অন্য এনজিওতে জড়িত</string>
+    <string name="profession">পেশা</string>
+    <string name="sponsor_project_code">স্পন্সর প্রোজেক্ট কোড</string>
+    <string name="ben_type">সুবিধাভোগী ধরন</string>
+    <string name="nid">জাতীয় পরিচয়পত্র</string>
+    <string name="birth_id">জন্মনিবন্ধন</string>
+    <string name="driving_license">ড্রাইভিং লাইসেন্স</string>
+    <string name="passport">পাসপোর্ট</string>
+    <string name="registration_master_toolbar">ঘরভিত্তিক তথ্য</string>
+    <string name="save_master_before">প্রাথমিক তথ্য গুলো সংরক্ষন করুন</string>
+    <string name="update_warning_message">তথ্য গুলো কি নবায়ন করতে চাচ্ছেন?</string>
+    <string name="collect_id">আইডি সংগ্রহ করুন</string>
+    <string name="edit_home_message">বাড়ির নামটি সম্পাদন করতে চান?</string>
+    <string name="no_home_message">বাড়ির নাম খুঁজে পাওয়া যায়নি। নতুন ভাবে রেজিষ্ট্রেশন করতে উর্ধ্বতন কর্মকর্তার সাথে যোগাযোগ করুন</string>
+    <string name="no_reserve_id">অব্যাবহিত আইডি নেই</string>
+    <string name="download_reserve_id">সার্ভার থেকে আইডি ডাউনলোড করে নিন</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="save">সংরক্ষন করুন</string>
+    <string name="already_synced">তথ্য ইতিমধ্যে সার্ভারে জমা হয়েছে</string>
+    <string name="common_warning_title">লক্ষ্যকরুন!</string>
+    <string name="want_to_delete">তথ্যটি মুছে ফেলতে চাচ্ছেন?</string>
+    <string name="common_warning_no">না</string>
+    <string name="successfully_data_inserted">সফলভাবে তথ্য সংরক্ষিত হয়েছে</string>
+    <string name="duplicate_error">একইরকম পূর্বের তথ্য রয়েছে</string>
+    <string name="registration_hh_id_error">সঠিক হাউজ হোল্ড আইডি সংগ্রহ করুন</string>
+    <string name="registration_hh_service_error">সকল হাউজ হোল্ড সেবা তথ্য সিলেক্ট করুন</string>
+    <string name="registration_commodities_error">আসবাবপত্র তথ্য প্রদান করুন</string>
+    <string name="family_member_no_miss_match">আপনার দেওয়া পরিবারের সদস্য সংখ্যার সাথে এই পরিবারের আওতাধীন সংরক্ষিত পরিবারের সদস্য সংখ্যার মিল নেই</string>
+    <string name="services">সেবা সমুহ</string>
+    <string name="registration_age_year_error">বয়স (বছর) সঠিক নয়</string>
+    <string name="registration_age_month_error">বয়স (মাস) সঠিক নয়</string>
+    <string name="registration_age_day_error">বয়স (দিন) সঠিক নয়</string>
+    <string name="registration_mobile_error">সঠিক নম্বর লিখুন</string>
+    <string name="registration_member_name_error">কমপক্ষে তিন অক্ষরের নাম লিখুন</string>
+    <string name="registration_gender_error">লিঙ্গ সিলেক্ট করুন</string>
+    <string name="registration_ben_type_error">সুবিধাভোগীর ধরন সিলেক্ট করুন</string>
+    <string name="registration_unique_id_error">সঠিক সুবিধাভোগীর আইডি সংগ্রহ করুন</string>
+
+    <string name="sponsor_child_toolbar">স্পন্সর শিশুর তথ্য</string>
+    <string name="child_id">শিশুর আইডি</string>
+    <string name="sponsor_id">স্পন্সর আইডি</string>
+    <string name="personality">ব্যাক্তিত্ব</string>
+    <string name="regular_activities">দৈনন্দিন কার্যবিধি</string>
+    <string name="school_attendance">স্কুলের উপস্থিতি</string>
+    <string name="favorite_lesson">প্রিয় পাঠ্য বিষয়</string>
+    <string name="what_class_reading">কোন শ্রেণীতে পড়ে</string>
+    <string name="aim_in_life">জীবনের লক্ষ্য</string>
+    <string name="favorite_game">প্রিয় খেলা</string>
+    <string name="can_walk">হাঁটতে পারে</string>
+    <string name="can_talk">কথা বলতে পারে</string>
+    <string name="crawling">হামাগুড়ি দিয়ে চলে</string>
+    <string name="cause_of_disqualify">অযোগ্যতার কারন</string>
+    <string name="cause_exposed_date">কারন প্রকাশের তারিখ</string>
+
+    <string name="house_search">ঘরের নম্বর খুঁজুন</string>
+    <string name="ben_search">সুবিধাভোগীর আইডি খুঁজুন</string>
+    <string name="session_search">সেশন আইডি খুঁজুন</string>
+    <string name="meeting_search">বৈঠক আইডি খুঁজুন</string>
+    <string name="fetch_warning_text">পূর্বের তথ্য ডাউনলোড করতে চান?</string>
+    <string name="fetch_fetching_text">তথ্য ডাউনলোড হচ্ছে...</string>
+    <string name="fetch_request_text">পূর্বের তথ্য ডাউনলোড করে নিন</string>
+    <string name="sync_request_text">পূর্বের তথ্য আপলোড করে নিন</string>
+    <string name="fetch_delete_old_text">পূর্বের তথ্য মুছে ফেলে ডাউনলোড করবেন?</string>
+    <string name="fetch_sucess_text">তথ্য ডাউনলোড সফল হয়েছে</string>
+    <string name="fetch_finished_text">তথ্য ডাউনলোড শেষ হয়েছে</string>
+    <string name="fetch_failed_text">তথ্য ডাউনলোড বিফল হয়েছে</string>
+    <string name="fetch_partial_text">তথ্য ডাউনলোড আংশিক সফল হয়েছে</string>
+    <string name="fetch_empty_text">সার্ভারে কোন তথ্য নেই</string>
+    <string name="fetch_saved_text">ডাউনলোড করা তথ্য সংরক্ষিত হয়েছে</string>
+    <string name="fetch_not_saved_text">ডাউনলোড করা তথ্য সংরক্ষন হয়নি</string>
+
+    <string name="settings_district">জেলা</string>
+    <string name="settings_upazila">উপজেলা</string>
+    <string name="settings_union">ইউনিয়ন</string>
+    <string name="settings_village">গ্রাম</string>
+    <string name="settings_city">সিটি কর্পোরেশন</string>
+    <string name="settings_pourosava">পৌরসভা</string>
+    <string name="settings_city_ward">ওয়ার্ড</string>
+    <string name="settings_city_para">পাড়া-মহল্লা</string>
+    <string name="settings_resource_center">রিসোর্স সেন্টার</string>
+    <string name="settings_primary_school">প্রাথমিক বিদ্যালয়</string>
+    <string name="settings_save_all_geo">সংরক্ষন করুন</string>
+
+    <string name="reg_prof_4">দোকানদার</string>
+    <string name="reg_prof_25">ছোট ব্যবসা</string>
+    <string name="reg_prof_59">বাস চালক</string>
+    <string name="reg_prof_60">কসাই</string>
+    <string name="reg_prof_6">কাঠমিস্ত্রী</string>
+    <string name="reg_prof_11">নির্মাণ শ্রমিক</string>
+    <string name="reg_prof_26">গৃহ পরিচারিকা / গৃহকর্মী</string>
+    <string name="reg_prof_61">মিলের শ্রমিক</string>
+    <string name="reg_prof_15">মুচি</string>
+    <string name="reg_prof_58">ট্রাক চালক</string>
+    <string name="reg_prof_27">চাকরির অভাবের কারণে বেকার</string>
+    <string name="reg_prof_2">শ্রমিক / দিনমজুর</string>
+    <string name="reg_prof_8">প্রহরী</string>
+    <string name="reg_prof_101">রিকশা/ভ্যান/ঠেলাগাড়িচালক</string>
+    <string name="reg_prof_111">নিরাপত্তা কর্মী</string>
+    <string name="reg_prof_107">গার্মেন্টসকর্মী</string>
+    <string name="reg_prof_104">গৃহিনী</string>
+    <string name="reg_prof_53">অ্যানিমেটর</string>
+    <string name="reg_prof_22">চাকরিজীবী</string>
+    <string name="reg_prof_13">যন্ত্রকারিগর</string>
+    <string name="reg_prof_1">দক্ষ শ্রমিক</string>
+    <string name="reg_prof_31">বর্গা চাষী</string>
+    <string name="reg_prof_7">ড্রাইভার</string>
+    <string name="reg_prof_17">ইলেক্ট্রিশিয়ান</string>
+    <string name="reg_prof_3">কৃষক</string>
+    <string name="reg_prof_54">হেলথ এজেন্ট</string>
+    <string name="reg_prof_18">বার্তা বাহক</string>
+    <string name="reg_prof_52">ধাত্রী</string>
+    <string name="reg_prof_51">নার্স</string>
+    <string name="reg_prof_56">জেলে</string>
+    <string name="reg_prof_62">রাখাল</string>
+    <string name="reg_prof_14">দর্জি</string>
+    <string name="reg_prof_24">টেকনিশিয়ান</string>
+    <string name="reg_prof_9">শিক্ষক</string>
+
+    <string name="reg_personality_1">সক্রিয়</string>
+    <string name="reg_personality_7">বুদ্ধিমান</string>
+    <string name="reg_personality_10">প্রফুল্ল</string>
+    <string name="reg_personality_14">আত্মবিশ্বাসী</string>
+    <string name="reg_personality_505">সহযোগিতা করে এমন</string>
+    <string name="reg_personality_13">সৃষ্টিশীল</string>
+    <string name="reg_personality_2">কৌতুহলী</string>
+    <string name="reg_personality_3">বন্ধুসুলভ</string>
+    <string name="reg_personality_17">সুখী</string>
+    <string name="reg_personality_24">পরিশ্রমী</string>
+    <string name="reg_personality_504">উপকারী</string>
+    <string name="reg_personality_520">দয়াশীল</string>
+    <string name="reg_personality_19">ভবঘুরে</string>
+    <string name="reg_personality_6">আমোদ-প্রমোদ পূর্ণ</string>
+    <string name="reg_personality_11">শান্তশিষ্ট</string>
+    <string name="reg_personality_510">অনুভূতিপ্রবণ</string>
+    <string name="reg_personality_9">লাজুক</string>
+    <string name="reg_personality_521">বিচক্ষণ/ জ্ঞানী</string>
+
+    <string name="reg_activity_127">সাইকেল চালানো</string>
+    <string name="reg_activity_151">পশুদের যত্ন নেয়া</string>
+    <string name="reg_activity_111">ভাই-বোনদের যত্ন নেয়া</string>
+    <string name="reg_activity_189">রান্না করা</string>
+    <string name="reg_activity_182">সৃজনশীল লেখা</string>
+    <string name="reg_activity_533">সাংস্কৃতিক কার্যক্রম</string>
+    <string name="reg_activity_120">নাচ করা</string>
+    <string name="reg_activity_128">মাছ ধরা</string>
+    <string name="reg_activity_110">ঘরের কাজে সাহায্য করা</string>
+    <string name="reg_activity_121">গান শোনা</string>
+    <string name="reg_activity_145">গল্প শোনা</string>
+    <string name="reg_activity_525">ঘরের বাইরে কাজ করা</string>
+    <string name="reg_activity_108">খেলাধুলায় অংশগ্রহণ করা</string>
+    <string name="reg_activity_125">বাদ্যযন্ত্র বাজানো</string>
+    <string name="reg_activity_115">বন্ধুদের সাথে খেলাধুলা করা</string>
+    <string name="reg_activity_140">খেলনা নিয়ে খেলা করা</string>
+    <string name="reg_activity_118">পড়া</string>
+    <string name="reg_activity_190">সেলাই করা</string>
+    <string name="reg_activity_137">গান করা</string>
+    <string name="reg_activity_131">পড়াশোনা করা</string>
+    <string name="reg_activity_109">মাঠে কাজ করা</string>
+
+    <string name="reg_attendance_28">স্কুলে যায়না</string>
+    <string name="reg_attendance_27">খুব ছোট হওয়ার কারণে স্কুলে যায়না</string>
+    <string name="reg_attendance_26">স্কুলে যায়</string>
+
+    <string name="reg_subject_73">কৃষি</string>
+    <string name="reg_subject_41">চারুকলা</string>
+    <string name="reg_subject_31">বাংলা</string>
+    <string name="reg_subject_50">কম্পিউটার</string>
+    <string name="reg_subject_34">ইংরেজি</string>
+    <string name="reg_subject_40">ইতিহাস</string>
+    <string name="reg_subject_33">গণিত</string>
+    <string name="reg_subject_42">সংগীত</string>
+    <string name="reg_subject_43">শারীরিক শিক্ষা</string>
+    <string name="reg_subject_71">ধর্মীয় শিক্ষা</string>
+    <string name="reg_subject_35">বিজ্ঞান</string>
+    <string name="reg_subject_36">সামাজিক বিজ্ঞান</string>
+
+    <string name="reg_class_88">অষ্টম শ্রেণি</string>
+    <string name="reg_class_91">একাদশ শ্রেণি</string>
+    <string name="reg_class_85">পঞ্চম শ্রেণি</string>
+    <string name="reg_class_81">প্রথম শ্রেণি</string>
+    <string name="reg_class_84">চতুর্থ শ্রেণি</string>
+    <string name="reg_class_93">কিণ্ডারগার্টেন</string>
+    <string name="reg_class_89">নবম শ্রেণি</string>
+    <string name="reg_class_94">প্রাক-প্রাথমিক</string>
+    <string name="reg_class_82">দ্বিতীয় শ্রেণি</string>
+    <string name="reg_class_87">সপ্তম শ্রেণি</string>
+    <string name="reg_class_86">ষষ্ঠ শ্রেণি</string>
+    <string name="reg_class_105">বিশেষ শিক্ষা</string>
+    <string name="reg_class_90">দশম শ্রেণি</string>
+    <string name="reg_class_83">তৃতীয় শ্রেণি</string>
+    <string name="reg_class_92">দ্বাদশ শ্রেণি</string>
+
+    <string name="reg_ambition_238">স্হপতি হওয়া</string>
+    <string name="reg_ambition_202">শিল্পী হওয়া</string>
+    <string name="reg_ambition_246">নভোচারী হওয়া</string>
+    <string name="reg_ambition_232">ক্রীড়াবিদ হওয়া</string>
+    <string name="reg_ambition_248">ব্যাংকার হওয়া</string>
+    <string name="reg_ambition_249">সুন্দরী রাণী হওয়া</string>
+    <string name="reg_ambition_233">ব্যবসায়ী হওয়া</string>
+    <string name="reg_ambition_205">বাবুর্চি হওয়া</string>
+    <string name="reg_ambition_251">কম্পিউটার টেকনিশিয়ান</string>
+    <string name="reg_ambition_206">নির্মাণ শ্রমিক</string>
+    <string name="reg_ambition_208">নর্তকী হওয়া</string>
+    <string name="reg_ambition_209">ডাক্তার হওয়া</string>
+    <string name="reg_ambition_231">পোষাক প্রস্তুতকারক</string>
+    <string name="reg_ambition_210">গাড়িচালক হওয়া</string>
+    <string name="reg_ambition_252">ইলেক্ট্রিশিয়ান হওয়া</string>
+    <string name="reg_ambition_211">প্রকৌশলী হওয়া</string>
+    <string name="reg_ambition_212">কৃষক হওয়া</string>
+    <string name="reg_ambition_213">অগ্নি নির্বাপক হওয়া</string>
+    <string name="reg_ambition_229">আইনবিদ হওয়া</string>
+    <string name="reg_ambition_255">মডেল হওয়া</string>
+    <string name="reg_ambition_215">সংগীত শিল্পী হওয়া</string>
+    <string name="reg_ambition_216">যাজক হওয়া</string>
+    <string name="reg_ambition_217">নার্স হওয়া</string>
+    <string name="reg_ambition_239">অফিস কর্মী হওয়া</string>
+    <string name="reg_ambition_218">পাইলট হওয়া</string>
+    <string name="reg_ambition_219">পুলিশ অফিসার হওয়া</string>
+    <string name="reg_ambition_220">রাজনীতিবিদ হওয়া</string>
+    <string name="reg_ambition_256">বিজ্ঞানী হওয়া</string>
+    <string name="reg_ambition_223">সৈনিক হওয়া</string>
+    <string name="reg_ambition_257">নায়ক হওয়া</string>
+    <string name="reg_ambition_224">দর্জি হওয়া</string>
+    <string name="reg_ambition_225">শিক্ষক হওয়া</string>
+    <string name="reg_ambition_258">ঝালাইকারী হওয়া</string>
+
+    <string name="reg_game_815">অভিনয়</string>
+    <string name="reg_game_817">বল খেলা</string>
+    <string name="reg_game_833">বাস্কেট বল</string>
+    <string name="reg_game_818">সাইকেল চালানো</string>
+    <string name="reg_game_834">বাঘ বন্দী</string>
+    <string name="reg_game_819">ক্যারাম/লুডু</string>
+    <string name="reg_game_820">তাস খেলা</string>
+    <string name="reg_game_821">ক্রিকেট</string>
+    <string name="reg_game_822">পুতুল খেলা</string>
+    <string name="reg_game_823">ফুটবল খেলা</string>
+    <string name="reg_game_824">কানামাছি খেলা</string>
+    <string name="reg_game_826">দড়িলাফ খেলা</string>
+    <string name="reg_game_827">কাবাডি খেলা</string>
+    <string name="reg_game_828">ঘুড়ি উড়ানো</string>
+    <string name="reg_game_829">কিত-কিত খেলা</string>
+    <string name="reg_game_831">মার্বেল খেলা</string>
+    <string name="reg_game_801">বাদ্যযন্ত্র বাজানো</string>
+    <string name="reg_game_802">নেট বল</string>
+    <string name="reg_game_803">বহিরাঙ্গনের খেলা</string>
+    <string name="reg_game_804">পিং পং</string>
+    <string name="reg_game_806">গান গাওয়া</string>
+    <string name="reg_game_809">সাঁতার কাটা</string>
+    <string name="reg_game_832">টেনিস খেলা</string>
+    <string name="reg_game_813">খেলনা</string>
+    <string name="reg_game_814">ভলিবল খেলা</string>
+
+    <string name="reg_income_1">৫০০০ টাকা এর কম</string>
+    <string name="reg_income_2">৫০০১-৭০০০ টাকা</string>
+    <string name="reg_income_3">৭০০১-৯০০০ টাকা</string>
+    <string name="reg_income_4">৯০০১ টাকা এর বেশি</string>
+
+    <string name="other">অন্য</string>
+    <string name="khas">খাস</string>
+
+    <string name="stable">স্থায়ী</string>
+    <string name="unstable">অস্থায়ী</string>
+
+    <string name="reg_house_1">কাঠের তৈরি বাড়ি</string>
+    <string name="reg_house_3">অ্যাপার্টমেন্ট</string>
+    <string name="reg_house_46">পাঁকা বাড়ি</string>
+    <string name="reg_house_47">টিন দিয়ে তৈরি ছাদের বাড়ি</string>
+    <string name="reg_house_101">সম্পূর্ণ টিন দিয়ে তৈরি বাড়ি</string>
+    <string name="reg_house_48">শনের তৈরি বাড়ি</string>
+    <string name="reg_house_49">মাটির তৈরি বাড়ি</string>
+
+    <string name="reg_sponsor_status_901">স্হানান্তরিত</string>
+    <string name="reg_sponsor_status_902">বিবাহিত - অযোগ্য</string>
+    <string name="reg_sponsor_status_903">মৃত</string>
+    <string name="reg_sponsor_status_904">অংশগ্রহণ করেনা</string>
+    <string name="reg_sponsor_status_906">বয়স বেশি</string>
+    <string name="reg_sponsor_status_908">পিতামাতার অস্বীকৃতি</string>
+    <string name="reg_sponsor_status_909">শিশুর অস্বীকৃতি</string>
+    <string name="reg_sponsor_status_920">একাধিক অন্তর্ভুক্তি</string>
+    <string name="reg_sponsor_status_922">অ্যাসাইনমেন্টের জন্য সর্বাধিক বয়স</string>
+
+    <string name="reg_relation_1">পরিবার প্রধান</string>
+    <string name="reg_relation_2">পরিবার প্রধানের স্ত্রী</string>
+    <string name="reg_relation_3">পরিবার প্রধানের স্বামী</string>
+    <string name="reg_relation_4">ছেলে</string>
+    <string name="reg_relation_5">মেয়ে</string>
+    <string name="reg_relation_6">বাবা</string>
+    <string name="reg_relation_7">মা</string>
+    <string name="reg_relation_8">পুত্রবধু/ জামাতা</string>
+    <string name="reg_relation_9">ভাই</string>
+    <string name="reg_relation_10">বোন</string>
+    <string name="reg_relation_11">শ্বশুর/শাশুড়ি</string>
+    <string name="reg_relation_12">ভাতৃষ্পুত্র/ভাতৃষ্পুত্রী/ভা্েগড়ব/ভাগিড়ব</string>
+    <string name="reg_relation_13">দাদা/দাদি/নানা/নানি</string>
+    <string name="reg_relation_14">নাতি/নাতনি</string>
+    <string name="reg_relation_15">ননদ/দেবর/শ্যালক</string>
+    <string name="reg_relation_16">ভাতৃবধু</string>
+
+    <string name="never_gone">কখনোই যায়নি</string>
+
+    <string name="married">বিবাহিত</string>
+    <string name="unmarried">অবিবাহিত</string>
+
+    <string name="bengali">বাংলা</string>
+    <string name="urdu">ঊর্দু</string>
+
+    <string name="eligible">যোগ্য</string>
+    <string name="not_eligible">অযোগ্য</string>
+
+    <string name="reg_education_1">অক্ষর জ্ঞ্যানহীন</string>
+    <string name="reg_education_2">প্রাক-প্রাথমিক (শিশু শ্রেণী)</string>
+    <string name="reg_education_3">অক্ষর জ্ঞ্যান সম্পন্ন"</string>
+    <string name="reg_education_4">প্রাথমিক</string>
+    <string name="reg_education_5">মাধ্যমিক</string>
+    <string name="reg_education_6">উচ্চ মাধ্যমিক বা তদোর্ধ</string>
+
+    <string name="reg_school_1">সরকারি মাধ্যমিক স্কুল</string>
+    <string name="reg_school_321">সরকারি প্রাইমারি স্কুল</string>
+    <string name="reg_school_3">বেসরকারি স্কুল</string>
+    <string name="reg_school_4">এনজিও স্কুল</string>
+    <string name="reg_school_5">মাদ্রাসা</string>
+    <string name="reg_school_328">কলেজ</string>
+    <string name="reg_school_343">প্রস্তুতিমূলক</string>
+    <string name="reg_school_324">প্রাক-প্রাথমিক</string>
+
+    <string name="mss">এমএসএস</string>
+    <string name="other_organization">অন্যান্য সংগঠন</string>
+    <string name="both">উভয়</string>
+
+    <string name="kishor_with_age">কিশোর (৫-১৯ বছর)</string>
+    <string name="kishori_with_age">কিশোরী (৫-১৯ বছর)</string>
+    <string name="adult_male">প্রাপ্ত বয়স্ক পুরুষ</string>
+    <string name="adult_female">প্রাপ্ত বয়স্ক নারী</string>
+
+    <string name="nari_moitri">নারী মৈত্রী</string>
+
+    <string name="reg_commodities_1">রেডিও</string>
+    <string name="reg_commodities_2">ক্যাসেট</string>
+    <string name="reg_commodities_3">টেলিভিশন (ডিশ আছে)</string>
+    <string name="reg_commodities_4">টেলিভিশন (ডিশ নেই)</string>
+    <string name="reg_commodities_5">মোবাইল ফোন</string>
+    <string name="reg_commodities_6">চৌকি</string>
+    <string name="reg_commodities_7">খাট</string>
+    <string name="reg_commodities_8">আলনা</string>
+    <string name="reg_commodities_9">চেয়ার</string>
+    <string name="reg_commodities_10">টেবিল</string>
+    <string name="reg_commodities_11">ড্রেসিং টেবিল</string>
+    <string name="reg_commodities_12">সোফা</string>
+    <string name="reg_commodities_13">শোকেস</string>
+    <string name="reg_commodities_14">সাইকেল</string>
+    <string name="reg_commodities_15">হোন্ডা</string>
+    <string name="reg_commodities_16">রিকশা</string>
+    <string name="reg_commodities_17">ভ্যান</string>
+    <string name="reg_commodities_18">নসিমন-করিমন</string>
+    <string name="reg_commodities_19">ট্র্যাক্টর</string>
+    <string name="reg_commodities_20">গরুর গাড়ি</string>
+
+    <!--Hint-->
+    <string name="hint_answer">উত্তর লিখুন</string>
+    <string name="hint_auto">স্বয়ংক্রিয় উত্তর</string>
+    <string name="hint_select">সিলেক্ট করুন</string>
+    <string name="hint_number">নম্বর লিখুন</string>
+    <string name="hint_general_info">সাধারণ তথ্য</string>
+    <string name="hint_disease_symptom_test">রোগের লক্ষণ ও পরীক্ষা</string>
+    <string name="hint_visit_number">সি ও ভিসিট নম্বর : </string>
+    <string name="hint_gmp_list">জি.এম.পি তালিকা</string>
+    <string name="hint_date">দিন-মাস-বছর</string>
+    <string name="hint_session_list">সুবিধাভোগীর তালিকা</string>
+    <string name="hint_anc_visit_info">এএনসি পরিদর্শন তথ্য</string>
+    <string name="hint_tt_info">টিটি তথ্য</string>
+    <string name="hint_pnc_visit_info">পিএনসি পরিদর্শন তথ্য</string>
+    <string name="hint_previous_referral">পূর্ববর্তী রেফারেল</string>
+    <string name="hint_current_referral">বর্তমান রেফারেল</string>
+    <string name="hospital">হাসপাতাল</string>
+    <string name="institute">প্রতিষ্ঠান</string>
+    <string name="does_go_school">স্কুলে যায়</string>
+    <string name="dewDoseYear">ডোজের সাল</string>
+    <string name="hint_visit_info">পরিদর্শন তথ্য</string>
+    <string name="hint_pregnancy_info">গর্ভধারণ তথ্য</string>
+    <string name="hint_selected_year">নির্বাচিত বছর</string>
+    <string name="hint_year_picker">বছর নির্বাচন</string>
+
+    <!--ChildrenCounselingList-->
+    <string name="pnc_newborn_counseling10">বাড়তি অনুপুষ্টি (মনিমিক্স)</string>
+    <string name="pnc_newborn_counseling11">গ্রোথ মনিটরিং ও প্রমোশন</string>
+
+    <!--Validation Messages-->
+    <string name="validation_ben_id">বেনিফিশিয়ারি আইডি প্রবেশ করুন</string>
+    <string name="validation_lmp">এল.এম.পি তারিখ প্রবেশ করুন</string>
+    <string name="validation_temperature">তাপমাত্রা প্রবেশ করুন</string>
+    <string name="validation_heart_rate">হৃদকম্পন মাত্রা প্রবেশ করুন</string>
+    <string name="validation_bloodpressure">রক্তচাপ প্রবেশ করুন</string>
+    <string name="validation_caregiver_name">যত্নকারীর নাম প্রবেশ করুন</string>
+    <string name="validation_message_number">বার্তা নম্বর প্রবেশ করুন</string>
+    <string name="validation_enter">প্রবেশ করুন</string>
+
+    <string name="list_beneficiaries_present_in_session">সেশনে উপস্থিত সুবিধাভোগীদের তালিকা</string>
+
+    <!--MNCHN-->
+    <string name="work_area">কর্ম এলাকা</string>
+
+    <string name="ancBenId">সুবিধাভোগীর আইডি</string>
+    <string name="ancBenName">সুবিধাভোগীর নাম</string>
+    <string name="ancDateOfBirth">জন্ম তারিখ</string>
+    <string name="ancAge">সুবিধাভোগীর বয়স</string>
+    <string name="ancRegistrationDate">রেজিস্ট্রেশনের তারিখ</string>
+    <string name="ancVisitDate">পরিদর্শনের তারিখ</string>
+    <string name="ancNumberOfPregnancy">কততম গর্ভধারণ</string>
+    <string name="ancLmp">এল এম পি</string>
+    <string name="ancEdd">ই ডি ডি</string>
+    <string name="ancTemperature">তাপমাত্রা (ফারেনহাইট)</string>
+    <string name="ancHeartRate">হৃদস্পন্দন (প্রতি মিনিটে)</string>
+    <string name="ancBloodPressure">রক্তচাপ</string>
+    <string name="ancSwelling">পা ফোলা(পিটিং ইডিমা)</string>
+    <string name="ancPaleEyelids">চোখের নিচের পাতা ফ্যাকাসে?</string>
+    <string name="ancBabyMovingFeel">বাচ্চার নড়া চড়া বুজতে পারেন কি না</string>
+    <string name="ancJaundice">জন্ডিস (চোখের সাদা অংশ হলুদ কি না)</string>
+    <string name="ancTTTerm">টি টি তথ্য</string>
+    <string name="ancTTDate">টি টি তারিখ</string>
+    <string name="ancTTVisitWhere">কোথায় সেবা নিয়েছেন</string>
+    <string name="ancAncVisitTerm">এ এন সি ভিজিট</string>
+    <string name="ancAncVisitDate">ভিজিট তারিখ</string>
+    <string name="ancAncVisitWhere">কোথায় সেবা নিয়েছেন</string>
+    <string name="ancPregnancyTest">গর্ভধারণ পরীক্ষা করেছেন?</string>
+    <string name="ancMiscarriage">আগে কোনো গর্ভপাত হয়েছে?</string>
+    <string name="ancReferralHospital">রেফারাল হাসপাতাল</string>
+    <string name="ancReferralInstitute">রেফারাল প্রতিষ্ঠান</string>
+    <string name="ancReferralReason">রেফারাল কারণ</string>
+    <string name="ancReferralHospitalBefore">পূর্বের রেফারাল হাসপাতাল</string>
+    <string name="ancReferralInstituteBefore">পূর্বের রেফারাল প্রতিষ্ঠান</string>
+    <string name="ancReferralReasonBefore">পূর্বের রেফারাল কারণ</string>
+    <string name="ancRemarks">মন্তব্য</string>
+    <string name="ancVisitNo">ভিসিট নম্বর</string>
+
+    <!--ANC Spinner-->
+    <string name="first">প্রথম</string>
+    <string name="second">দ্বিতীয়</string>
+    <string name="third">তৃতীয়</string>
+    <string name="fourth">চতুর্থ</string>
+    <string name="fifth">পঞ্চম</string>
+    <string name="sixth">ষষ্ঠ</string>
+    <string name="seventh">সপ্তম</string>
+    <string name="eighth">অষ্টম</string>
+    <string name="ninth">নবম</string>
+    <string name="tenth">দশম</string>
+
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+    <string name="not_applicable">প্রযোজ্য নয়</string>
+
+    <string name="tt1">টি টি ১</string>
+    <string name="tt2">টি টি ২</string>
+    <string name="tt3">টি টি ৩</string>
+    <string name="tt4">টি টি ৪</string>
+    <string name="tt5">টি টি ৫</string>
+
+    <string name="suddenly_happen">হঠাৎ হয়েছে</string>
+    <string name="not_happen">হয় নাই</string>
+    <string name="happen_at_hospital">হাসপাতালে হয়েছে</string>
+
+    <string name="anc_visit_0">ভিজিট নেয় নাই</string>
+    <string name="anc_visit_1">এ এন সি ভিজিট ১</string>
+    <string name="anc_visit_2">এ এন সি ভিজিট ২</string>
+    <string name="anc_visit_3">এ এন সি ভিজিট ৩</string>
+    <string name="anc_visit_4">এ এন সি ভিজিট ৪</string>
+    <string name="anc_visit_5">এ এন সি ভিজিট ৫</string>
+    <string name="anc_visit_6">এ এন সি ভিজিট ৬</string>
+
+    <string name="ref_hospital_0">রেফার প্রয়োজন নাই</string>
+    <string name="ref_hospital_1">এনজিও হাসপাতাল</string>
+    <string name="ref_hospital_2">সরকারী হাসপাতাল</string>
+    <string name="ref_hospital_3">ব্যক্তিগত ক্লিনিক</string>
+    <string name="ref_hospital_4">স্যাটেলাইট ক্লিনিক</string>
+
+    <string name="ref_Institute_ngo_1">সূর্যের হাসি ক্লিনিক</string>
+    <string name="ref_Institute_ngo_2">UPHCSDP ক্লিনিক</string>
+    <string name="ref_Institute_ngo_3">মেরী স্টোপস</string>
+    <string name="ref_Institute_ngo_4">ব্র্যাক</string>
+    <string name="others">অন্যান্য</string>
+
+    <string name="ref_Institute_govt_1">শিশু হাসপাতাল</string>
+    <string name="ref_Institute_govt_2">শহীদ সোহরাওয়ার্দী হাসপাতাল</string>
+    <string name="ref_Institute_govt_3">মোহাম্মদপুর ফার্টিলিটি সার্ভিসেস এন্ড ট্রেইনিং সেন্টার (এমএফএসটিসি)</string>
+    <string name="ref_Institute_govt_4">ঢাকা মেডিক্যাল কলেজ</string>
+    <string name="ref_Institute_govt_5">স্যার সলিমুল্লাহ মেডিক্যাল কলেজ ও মিটফোর্ড হাসপাতাল</string>
+
+    <string name="ref_Institute_private_1">বাংলাদেশ মেডিক্যাল কলেজ হাসপাতাল</string>
+    <string name="ref_Institute_private_2">শিকদার মেডিক্যাল কলেজ হাসপাতাল</string>
+
+    <string name="ref_reason_anc_1">গর্ভকালীন সেবা</string>
+    <string name="danger_sign">বিপদচিহ্ন</string>
+    <string name="tt_vaccine">টিটি টিকা</string>
+    <string name="no_reason">কোনো কারণ নাই</string>
+
+    <!-- ANC ListCheckBox-->
+    <string name="counseling_support">কাউন্সিলিং ও সহায়তা</string>
+    <string name="refer_info">রেফারাল তথ্য</string>
+
+    <string name="counseling">কাউন্সেলিং</string>
+    <string name="training_support">প্রশিক্ষণ ও সহায়তা</string>
+
+    <string name="anc_danger_sign_title">আজকের বিপদচিহ্ন</string>
+    <string name="anc_counseling_title">কাউন্সেলিং</string>
+    <string name="anc_training_support_title">আজকের প্রদত্ত প্রশিক্ষণ ও সহায়তা</string>
+
+    <string name="anc_danger_sign_1">যোনিপথে রক্তস্রাব</string>
+    <string name="anc_danger_sign_2">তীব্র মাথাব্যথা ও চোখে ঝাপসা দেখা</string>
+    <string name="anc_danger_sign_3">৩ দিন বা তারচেয়ে বেশিদিন ধরে  ১০০.৪0F/ ৩৮0C এর বেশি জ্বর</string>
+    <string name="anc_danger_sign_4">বাধাগ্রস্থ বা বিলম্বিত প্রসব বা গর্ভে শিশুর ঝুঁকিপূর্ণ অবস্থান</string>
+    <string name="anc_danger_sign_5">খিঁচুনি</string>
+
+    <string name="anc_Counseling_1">গর্ভকালীন সেবা (ANC) নিয়মিত ও ফলো আপ</string>
+    <string name="anc_Counseling_2">ধনুষ্টংকারের প্রতিষেধক</string>
+    <string name="anc_Counseling_3">স্বাস্থ্যকর খাদ্য ও পুষ্টি</string>
+    <string name="anc_Counseling_4">আয়রন ও ফলিক এসিড</string>
+    <string name="anc_Counseling_5">ক্যালসিয়াম গ্রহন</string>
+    <string name="anc_Counseling_6">বিশ্রাম ও অন্যান্য কাজ</string>
+    <string name="anc_Counseling_7">ব্যক্তিগত পরিষ্কার পরিচ্ছন্নতা ও নিজের যত্ন</string>
+    <string name="anc_Counseling_8">নবজাতকের তাৎক্ষনিক ও অত্যাবশ্যকীয় যত্ন</string>
+    <string name="anc_Counseling_9">বুকের দুধ খাওয়ানো</string>
+    <string name="anc_Counseling_10">প্রসব পরবর্তী সেবা</string>
+    <string name="anc_Counseling_11">প্রসব পরবর্তী পরিবার পরিকল্পনা ও জন্মবিরতি</string>
+    <string name="anc_Counseling_12">ভিডিও প্রদর্শন</string>
+    <string name="anc_Counseling_13">সাবান দিয়ে হাত ধোয়া</string>
+    <string name="anc_Counseling_14">খাবার পানি কমপক্ষে ২০ মিনিট ফুটিয়ে পান করা</string>
+
+    <string name="pnc_support_1">সাফ কথা দেয়া হয়েছে?</string>
+    <string name="pnc_support_2">শিশু বিকাশ কার্ড দেয়া হয়েছে</string>
+    <string name="pnc_support_3">WASH কার্ড দেয়া হয়েছে ও ২ টি তথ্য পয়েছে</string>
+    <string name="pnc_support_4">৭.১% ক্লোরহেক্সিডিন বোতল দেয়া হয়েছে</string>
+
+    <!--PNC-->
+    <!--Screen-->
+
+    <string name="pnc_info_general">সাধারণ তথ্য</string>
+    <string name="pnc_info_observation">রোগের লক্ষণ ও পরীক্ষা</string>
+    <string name="pnc_info_delivery">প্রসব তথ্য</string>
+    <string name="pnc_info_counseling">কাউন্সিলিং ও সহায়তা</string>
+    <string name="pnc_info_referral">রেফারাল তথ্য</string>
+
+    <string name="pncBenId">সুবিধাভোগীর আইডি</string>
+    <string name="pncBenName">সুবিধাভোগীর নাম</string>
+    <string name="pncDateOfBirth">জন্ম তারিখ</string>
+    <string name="pncAge">সুবিধাভোগীর বয়স</string>
+    <string name="pncRegistrationDate">রেজিস্ট্রেশনের তারিখ</string>
+    <string name="pncVisitDate">পরিদর্শনের তারিখ</string>
+    <string name="pncTemperature">তাপমাত্রা (ফারেনহাইট)</string>
+    <string name="pncHeartRate">হৃদস্পন্দন (প্রতি মিনিটে)</string>
+    <string name="pncBloodPressure">রক্তচাপ</string>
+    <string name="pncSwelling">পা ফোলা(পিটিং ইডিমা)</string>
+    <string name="pncPaleEyelids">চোখের নিচের পাতা ফ্যাকাসে?</string>
+    <string name="pncDeliveryDate">প্রসবের তারিখ</string>
+    <string name="pncDeliveryPlace">প্রসবের স্থান</string>
+    <string name="pncDeliveryResult">প্রসবের ফলাফল</string>
+    <string name="pncDeliveryAttendant">প্রসবে সহায়তাকারী</string>
+    <string name="pncPncVisitTerm">পি এন সি ভিজিট</string>
+    <string name="pncPncVisitWhere">কোথায় সেবা নিয়েছেন</string>
+    <string name="pncPncVisitDate">ভিজিট তারিখ</string>
+    <string name="pncReferralHospital">রেফারাল হাসপাতাল</string>
+    <string name="pncReferralInstitute">রেফারাল প্রতিষ্ঠান</string>
+    <string name="pncReferralReason">রেফারাল কারণ</string>
+    <string name="pncReferralHospitalBefore">পূর্বের রেফারাল হাসপাতাল</string>
+    <string name="pncReferralInstituteBefore">পূর্বের রেফারাল প্রতিষ্ঠান</string>
+    <string name="pncReferralReasonBefore">পূর্বের রেফারাল কারণ</string>
+    <string name="pncRemarks">মন্তব্য</string>
+    <string name="pncVisitNo">ভিসিট নম্বর</string>
+
+    <!--Dagger, Counciling, Support-->
+    <string name="pnc_list_item_button1">প্রসবের সময় বিপদচিহ্ন</string>
+    <string name="pnc_list_item_button2">প্রসবের পর বিপদচিহ্ন</string>
+    <string name="pnc_list_item_button3">কাউন্সেলিং</string>
+    <string name="pnc_list_item_button4">নবজাতকের কাউন্সেলিং</string>
+    <string name="pnc_list_item_button5">প্রশিক্ষণ/সহায়তা</string>
+
+    <string name="pnc_list_item_title1">প্রসবের সময় কোন বিপদচিহ্ন ?</string>
+    <string name="pnc_list_item_title2">প্রসবের পর কোন বিপদচিহ্ন ?</string>
+    <string name="pnc_list_item_title3">কাউন্সেলিং</string>
+    <string name="pnc_list_item_title4">নবজাতকের কাউন্সেলিং</string>
+    <string name="pnc_list_item_title5">আজকে প্রদত্ত প্রশিক্ষণ ও সহায়তা</string>
+
+    <string name="pnc_danger_before1">প্রচুর রক্তস্রাব</string>
+    <string name="pnc_danger_before2">বাধাগ্রস্থ প্রসব</string>
+    <string name="pnc_danger_before3">১২ ঘন্টার বেশি সময় ধরে প্রসব</string>
+    <string name="pnc_danger_before4">চোখে ঝাপসা দেখা</string>
+    <string name="pnc_danger_before5">খিঁচুনি বা অজ্ঞান হওয়া</string>
+
+    <string name="pnc_danger_after1">যোনিপথে প্রচুর রক্ত যাওয়া বা রক্তস্রাব বেড়ে যাওয়া</string>
+    <string name="pnc_danger_after2">মাঝারী থেকে তীব্র উচ্চ রক্তচাপ (১৪০/৯০ বা বেশি)</string>
+    <string name="pnc_danger_after3">খিঁচুনি বা অজ্ঞান হওয়া</string>
+    <string name="pnc_danger_after4">তীব্র পেটব্যাথা সাথে দুর্গন্ধযুক্ত স্রাব ও জ্বর</string>
+    <string name="pnc_danger_after5">তীব্র বুকে ব্যথা অথবা শ্বাসকষ্ট</string>
+    <string name="pnc_danger_after6">যোনিপথে প্রস্রাব বা পায়খানা উভয়ই যাওয়া</string>
+    <string name="pnc_danger_after7">যযোনিপথে কিছু বের হয়ে আসা</string>
+
+    <string name="pnc_counseling1">বিপদচিহ্ন</string>
+    <string name="pnc_counseling2">শিশুর ৬ মাস বয়স পর্যন্ত শুধুই বুকের দুধ খাওয়ানো</string>
+    <string name="pnc_counseling3">মা-এর স্বাভাবিক ও বাড়তি খাবার</string>
+    <string name="pnc_counseling4">বিশ্রাম ও অন্যান্য কাজ</string>
+    <string name="pnc_counseling5">ব্যক্তিগত পরিষ্কার পরিচ্ছন্নতা মেনে চলা</string>
+    <string name="pnc_counseling6">প্রস্রাব ও পায়খানা বিষয়ক যত্ন</string>
+    <string name="pnc_counseling7">স্বাস্থ্যকেন্দ্রে প্রসব পরবর্তী সেবা (PNC)</string>
+    <string name="pnc_counseling8">প্রসব-পরবর্তী পরিবার পরিকল্পনা</string>
+    <string name="pnc_counseling9">সাবান দিয়ে হাত ধোয়া</string>
+    <string name="pnc_counseling10">খাবার পানি কমপক্ষে ২০ মিনিট ফুটিয়ে পান করা</string>
+
+    <string name="pnc_newborn_counseling1">বিপদচিহ্নের কাউন্সেলিং</string>
+    <string name="pnc_newborn_counseling2">৬ মাস বয়স পর্যন্ত শুধুই বুকের দুধ খাওয়ানো</string>
+    <string name="pnc_newborn_counseling3">৬ মাস পরে বুকের দুধের পাশাপাশি অন্যান্য খাবার খাওয়ানো</string>
+    <string name="pnc_newborn_counseling4">টিকাদান</string>
+    <string name="pnc_newborn_counseling5">প্রসবপরবর্তী পরিদর্শন</string>
+    <string name="pnc_newborn_counseling6">ভিডিও প্রদর্শন</string>
+    <string name="pnc_newborn_counseling7">শিশু সুরক্ষার বার্তাসমুহ</string>
+    <string name="pnc_newborn_counseling8">সাবান দিয়ে হাত ধোয়া</string>
+    <string name="pnc_newborn_counseling9">খাবার পানি কমপক্ষে ২০ মিনিট ফুটিয়ে পান করা</string>
+
+
+    <!--Spinner-->
+    <string name="pnc_visit_1">পি এন সি ভিজিট ১</string>
+    <string name="pnc_visit_2">পি এন সি ভিজিট ২</string>
+    <string name="pnc_visit_3">পি এন সি ভিজিট ৩</string>
+    <string name="pnc_visit_4">পি এন সি ভিজিট ৪</string>
+    <string name="pnc_visit_5">পি এন সি ভিজিট ৫</string>
+    <string name="pnc_visit_6">পি এন সি ভিজিট ৬</string>
+
+    <string name="pnc_delivery_place1">সরকারী হাসপাতাল</string>
+    <string name="pnc_delivery_place2">এনজিও হাসপাতাল</string>
+    <string name="pnc_delivery_place3">টব্যক্তিগত ক্লিনিক/হাসপাতাল</string>
+    <string name="pnc_delivery_place4">ব্যাক্তিগত/বাড়িতে প্রসব</string>
+
+    <string name="pnc_delivery_attendant1">ডাক্তার</string>
+    <string name="pnc_delivery_attendant2">নার্স</string>
+    <string name="pnc_delivery_attendant3">প্রশিক্ষিত বার্থ এটেনডেন্ট (SBA)</string>
+    <string name="pnc_delivery_attendant4">সনাতন ও অপ্রশিক্ষিত বার্থ এটেনডেন্ট  (TBA)</string>
+    <string name="pnc_delivery_attendant5">আত্মীয় বা পরিবারের সদস্য</string>
+    <string name="pnc_delivery_attendant6">অন্যান্য</string>
+
+    <string name="pnc_delivery_result1">ছেলে</string>
+    <string name="pnc_delivery_result2">মেয়ে</string>
+    <string name="pnc_delivery_result3">মৃত</string>
+
+    <string name="pnc_refer_reason1">কোনো কারণ নাই</string>
+    <string name="pnc_refer_reason2">প্রসব পরবর্তী সেবা</string>
+    <string name="pnc_refer_reason3">প্রসব পরবর্তী পরিবার পরিকল্পনা</string>
+    <string name="pnc_refer_reason4">টঅন্যান্য অসুস্থতা</string>
+
+
+    <!--Newborn-->
+
+    <string name="new_info_general">সাধারণ তথ্য</string>
+    <string name="new_info_observation">রোগের লক্ষণ ও পরীক্ষা</string>
+    <string name="new_info_counseling">কাউন্সিলিং ও সহায়তা</string>
+    <string name="new_info_referral">রেফারাল তথ্য</string>
+
+    <string name="newBenId">সুবিধাভোগীর আইডি</string>
+    <string name="newBenName">সুবিধাভোগীর নাম</string>
+    <string name="newDateOfBirth">জন্ম তারিখ</string>
+    <string name="newAge">সুবিধাভোগীর বয়স</string>
+    <string name="newRegistrationDate">রেজিস্ট্রেশনের তারিখ</string>
+    <string name="newVisitDate">পরিদর্শনের তারিখ</string>
+    <string name="newCoughing">কাশি আছে কি না?</string>
+    <string name="newRespiratory">শ্বাস প্রশ্বাস এর হার (প্রতি মিনিটে)</string>
+    <string name="newChestDrawing">বুকের খাঁচা দেবে যাওয়া?</string>
+    <string name="newWheezing">শ্বাসের সময় শোঁ শোঁ শব্দ হওয়া?</string>
+    <string name="newVomiting">বমি হচ্ছে কি না?</string>
+    <string name="newDiarrhea">ডায়রিযা হচ্ছে কি না (দিনে তিন বারের বেশি)</string>
+    <string name="newDrinking">তরল বা বুকের দুধ পান করে কি না</string>
+    <string name="newTears">কাঁদলে  চোখে জল আসে কি না?</string>
+    <string name="newUrinated">সর্বশেষ কখন প্রস্রাব করেছে?</string>
+    <string name="newSkinTurgor">চামড়ার অবস্থা (পানি সল্পতার লক্ষণ)</string>
+    <string name="newInfantSuck">বুকের দুধ চুষে খাওয়া</string>
+    <string name="newPittingEdema">পা ফুলে গেছে (পিটিং ইডিমা)</string>
+    <string name="newPaleEyelids">চোখের পাতা ফ্যাকাসে?</string>
+    <string name="newPalePalms">হাতের তালু ফ্যাকাসে?</string>
+    <string name="newSkinInfection">ত্বকের সংক্রমণ</string>
+    <string name="newNasalDischarge">নাকে নিঃসরণ?</string>
+    <string name="newConjunctivitis">চোখ লাল/কঞ্জাংটিভাইটিস?</string>
+    <string name="newRash">শরীরের কোথাও লাল দাগযুক্ত লালচে দানা?</string>
+    <string name="newWeight">ওজন (কেজি)</string>
+    <string name="newTemperature">তাপমাত্রা (ফারেনহাইট)</string>
+    <string name="newHeartRate">হৃদস্পন্দনের হার (প্রতি মিনিটে)</string>
+    <string name="newMuac">মুয়াক</string>
+    <string name="newConvulsion">খিচুনি/অজ্ঞান হওয়া</string>
+    <string name="newUmbilicalInfection">Umbilical Infection</string>
+    <string name="newReferralHospital">রেফারাল হাসপাতাল</string>
+    <string name="newReferralInstitute">রেফারাল প্রতিষ্ঠান</string>
+    <string name="newReferralReason">রেফারাল কারণ</string>
+    <string name="newReferralHospitalBefore">পূর্বের রেফারাল হাসপাতাল</string>
+    <string name="newReferralInstituteBefore">পূর্বের রেফারাল প্রতিষ্ঠান</string>
+    <string name="newReferralReasonBefore">পূর্বের রেফারাল কারণ</string>
+    <string name="newRemarks">মন্তব্য</string>
+    <string name="newVisitNo">ভিসিট নম্বর</string>
+
+
+    <!--Dagger, Counciling, Support-->
+    <string name="new_list_item_button1">টীকা তথ্য</string>
+    <string name="new_list_item_button2">কাউন্সেলিং</string>
+    <string name="new_list_item_button3">প্রশিক্ষণ/সহায়তা</string>
+
+    <string name="new_list_item_title1">টীকা তথ্</string>
+    <string name="new_list_item_title2">কাউন্সেলিং</string>
+    <string name="new_list_item_title3">আজকে প্রদত্ত প্রশিক্ষণ ও সহায়তা</string>
+
+
+    <!--Newborn Spinner-->
+    <string name="new_gender1">ছেলে</string>
+    <string name="new_gender2">মেয়ে</string>
+
+    <string name="new_infant_suck1">স্বাভাবিক</string>
+    <string name="new_infant_suck2">দুর্বল</string>
+    <string name="new_infant_suck3">চুষে খেতে পারছে না</string>
+
+    <string name="new_breathing1">স্বাভাবিক শ্বাস</string>
+    <string name="new_breathing2">দ্রুত শ্বাস (৬০/মিনিট এর বেশি)</string>
+    <string name="new_breathing3">শ্বাস নিতে কষ্ট হছে (৬০/মিনিট এর কম)</string>
+
+    <string name="new_umbilicaliInfection1">নাভির চারপাশের ত্বক লাল</string>
+    <string name="new_umbilicaliInfection2">ফোলা</string>
+    <string name="new_umbilicaliInfection3">নাভি থেকে নিঃসরণ</string>
+
+    <string name="new_refer_reason1">কোনো কারণ নাই</string>
+    <string name="new_refer_reason2">অসুস্থ নবজাতক</string>
+    <string name="new_refer_reason3">টিকা</string>
+    <string name="new_refer_reason4">প্রসবপরবর্তী সেবা</string>
+    <string name="new_refer_reason5">বিপদচিহ্ন</string>
+    <string name="new_refer_reason6">অন্যান্য</string>new
+
+
+    <!--Children-->
+
+    <string name="chl_info_general">সাধারণ তথ্য</string>
+    <string name="chl_info_observation">রোগের লক্ষণ ও পরীক্ষা</string>
+    <string name="chl_info_counseling">কাউন্সিলিং ও সহায়তা</string>
+    <string name="chl_info_referral">রেফারাল তথ্য</string>
+
+    <string name="chlBenId">সুবিধাভোগীর আইডি</string>
+    <string name="chlBenName">সুবিধাভোগীর নাম</string>
+    <string name="chlDateOfBirth">জন্ম তারিখ</string>
+    <string name="chlAge">সুবিধাভোগীর বয়স</string>
+    <string name="chlRegistrationDate">রেজিস্ট্রেশনের তারিখ</string>
+    <string name="chlVisitDate">পরিদর্শনের তারিখ</string>
+    <string name="chlCoughing">কাশি আছে কি না?</string>
+    <string name="chlRespiratory">শ্বাস প্রশ্বাস এর হার (প্রতি মিনিটে)</string>
+    <string name="chlChestDrawing">বুকের খাঁচা দেবে যাওয়া?</string>
+    <string name="chlWheezing">শ্বাসের সময় শোঁ শোঁ শব্দ হওয়া?</string>
+    <string name="chlVomiting">বমি হচ্ছে কি না?</string>
+    <string name="chlDiarrhea">ডায়রিযা হচ্ছে কি না (দিনে তিন বারের বেশি)</string>
+    <string name="chlDrinking">তরল বা বুকের দুধ পান করে কি না</string>
+    <string name="chlTears">কাঁদলে  চোখে জল আসে কি না?</string>
+    <string name="chlUrinated">সর্বশেষ কখন প্রস্রাব করেছে?</string>
+    <string name="chlSkinTurgor">চামড়ার অবস্থা (পানি সল্পতার লক্ষণ)</string>
+    <string name="chlInfantSuck">বুকের দুধ চুষে খাওয়া</string>
+    <string name="chlPittingEdema">পা ফুলে গেছে (পিটিং ইডিমা)</string>
+    <string name="chlPaleEyelids">চোখের পাতা ফ্যাকাসে?</string>
+    <string name="chlPalePalms">হাতের তালু ফ্যাকাসে?</string>
+    <string name="chlSkinInfection">ত্বকের সংক্রমণ</string>
+    <string name="chlNasalDischarge">নাকে নিঃসরণ?</string>
+    <string name="chlConjunctivitis">চোখ লাল/কঞ্জাংটিভাইটিস?</string>
+    <string name="chlRash">শরীরের কোথাও লাল দাগযুক্ত লালচে দানা?</string>
+    <string name="chlWeight">ওজন (কেজি)</string>
+    <string name="chlTemperature">তাপমাত্রা (ফারেনহাইট)</string>
+    <string name="chlHeartRate">হৃদস্পন্দনের হার (প্রতি মিনিটে)</string>
+    <string name="chlMuac">মুয়াক</string>
+    <string name="chlConvulsion">খিচুনি/অজ্ঞান হওয়া</string>
+    <string name="chlReferralHospital">রেফারাল হাসপাতাল</string>
+    <string name="chlReferralInstitute">রেফারাল প্রতিষ্ঠান</string>
+    <string name="chlReferralReason">রেফারাল কারণ</string>
+    <string name="chlReferralHospitalBefore">পূর্বের রেফারাল হাসপাতাল</string>
+    <string name="chlReferralInstituteBefore">পূর্বের রেফারাল প্রতিষ্ঠান</string>
+    <string name="chlReferralReasonBefore">পূর্বের রেফারাল কারণ</string>
+    <string name="chlRemarks">মন্তব্য</string>
+    <string name="chlVisitNo">ভিসিট নম্বর</string>
+
+    <!--Dagger, Counciling, Support-->
+    <string name="chl_list_item_button1">টীকা তথ্য</string>
+    <string name="chl_list_item_button2">কাউন্সেলিং</string>
+    <string name="chl_list_item_button3">প্রশিক্ষণ/সহায়তা</string>
+
+    <string name="chl_list_item_title1">টীকা তথ্</string>
+    <string name="chl_list_item_title2">কাউন্সেলিং</string>
+    <string name="chl_list_item_title3">আজকে প্রদত্ত প্রশিক্ষণ ও সহায়তা</string>
+
+
+    <!--Children Spinner-->
+    <string name="chl_coughing1">কাশি নেই</string>
+    <string name="chl_coughing2">১৪ দিনের কম সময় ধরে কাশি</string>
+    <string name="chl_coughing3">১৪ দিনের বেশি সময় ধরে কাশি</string>
+
+    <string name="chl_vomiting1">বমি নেই</string>
+    <string name="chl_vomiting2">১-৫ বার</string>
+    <string name="chl_vomiting3">৬-১০ বার</string>
+    <string name="chl_vomiting4">১০ বারের বেশি</string>
+
+    <string name="chl_diarrhea1">ডায়রিয়া নেই</string>
+    <string name="chl_diarrhea2">১-৫ বার</string>
+    <string name="chl_diarrhea3">৬-১০ বার</string>
+    <string name="chl_diarrhea4">১০ বারের বেশি</string>
+
+    <string name="chl_drinking1">স্বাভাবিক</string>
+    <string name="chl_drinking2">স্বাভাবিকের চেয়ে বেশি</string>
+    <string name="chl_drinking3">স্বাভাবিকের চেয়ে কম</string>
+    <string name="chl_drinking4">তরল বা বুকের দুধ খেতে পারছে না</string>
+
+    <string name="chl_tears1">হ্যাঁ</string>
+    <string name="chl_tears2">না</string>
+    <string name="chl_tears3">জানা নেই</string>
+
+    <string name="chl_urinated1">গত ৬ ঘণ্টার মধ্যে</string>
+    <string name="chl_urinated2">৬-১২ ঘন্টা আগে</string>
+    <string name="chl_urinated3">১২ ঘণ্টারও আগে</string>
+    <string name="chl_urinated4">জানা নেই</string>
+
+    <string name="chl_muac1">কমলা/লাল</string>
+    <string name="chl_muac2">সবুজ</string>
+    <string name="chl_muac3">হলুদ</string>
+
+    <string name="chl_skin_turgor1">দ্রুত: স্বাভাবিক</string>
+    <string name="chl_skin_turgor2">ধীরগতিতে: ১-২ সেকেন্ডে</string>
+    <string name="chl_skin_turgor3">খুবই ধীরগতিতে: ২ সেকেন্ডের বেশি সময় ধরে</string>
+
+    <string name="chl_skin_infection1">লাল</string>
+    <string name="chl_skin_infection2">উষ্ণ</string>
+    <string name="chl_skin_infection3">ফোলা</string>
+    <string name="chl_skin_infection4">ব্যথা</string>
+    <string name="chl_skin_infection5">পুঁজ বা পানি পড়া</string>
+
+    <string name="chl_refer_reason1">কোনো কারণ নাই</string>
+    <string name="chl_refer_reason2">অসুস্থ</string>
+    <string name="chl_refer_reason3">টিকাদান</string>
+    <string name="chl_refer_reason4">ডায়রিয়া</string>
+    <string name="chl_refer_reason5">নিউমোনিয়া ও অন্যান্য শ্বাসজনিত রোগ</string>
+    <string name="chl_refer_reason6">বিপদচিহ্ন</string>new
+    <string name="chl_refer_reason7">মারাত্মক অপুষ্টি</string>new
+    <string name="chl_refer_reason8">অন্যান্য</string>
+
+    <!--Vaccine-->
+    <string name="vac_info_general">সাধারণ তথ্য</string>
+    <string name="vac_info_vaccine">টিকা তথ্য ফলোআপ</string>
+
+    <string name="vacBenId">সুবিধাভোগীর আইডি</string>
+    <string name="vacBenName">সুবিধাভোগীর নাম</string>
+    <string name="vacDateOfBirth">জন্ম তারিখ</string>
+    <string name="vacAge">সুবিধাভোগীর বয়স</string>
+    <string name="vacBcg">বি সি জি</string>
+    <string name="vacOpv0">ও পি ভি - 0</string>
+    <string name="vacOpv1">ও পি ভি - 1</string>
+    <string name="vacOpv2">ও পি ভি - 2</string>
+    <string name="vacOpv3">ও পি ভি - 3</string>
+    <string name="vacPenta1">পেন্টা - 1</string>
+    <string name="vacPenta2">পেন্টা - 2</string>
+    <string name="vacPenta3">পেন্টা - 3</string>
+    <string name="vacPcv1">পি সি ভি  - 1</string>
+    <string name="vacPcv2">পি সি ভি  - 2</string>
+    <string name="vacPcv3">পি সি ভি  - 3</string>
+    <string name="vacIpv">আই পি ভি</string>
+    <string name="vacMr1">এম আর (ডোজ ১)</string>
+    <string name="vacMr2">এম আর (ডোজ 2)</string>
+
+    <!--Monimix-->
+    <string name="mon_info_general">সাধারণ তথ্য</string>
+    <string name="mon_info_monimix">মনিমিক্স ফলোআপ</string>
+
+    <string name="monBenId">সুবিধাভোগীর আইডি</string>
+    <string name="monBenName">সুবিধাভোগীর নাম</string>
+    <string name="monDateOfBirth">জন্ম তারিখ</string>
+    <string name="monAge">সুবিধাভোগীর বয়স</string>
+    <string name="monFirstMonth">প্রথম মাসে কয়টি খেয়েছে</string>
+    <string name="monSecondMonth">দ্বিতীয় মাসে কয়টি খেয়েছে</string>
+    <string name="monSixMonthCompleted">ষষ্ট মাসে সম্পূর্ণ করেছে</string>
+
+    <!--IFA-->
+    <string name="ifa_info_general">সাধারণ তথ্য</string>
+    <string name="ifa_info_ifa">আইরন ও ফলিক অ্যাসিড ফলোআপ</string>
+
+    <string name="ifaBenId">সুবিধাভোগীর আইডি</string>
+    <string name="ifaBenName">সুবিধাভোগীর নাম</string>
+    <string name="ifaDateOfBirth">জন্ম তারিখ</string>
+    <string name="ifaAge">সুবিধাভোগীর বয়স</string>
+
+    <string name="ifaIFAGot">পেয়েছেন</string>
+    <string name="ifaIFATaken">খেছেন</string>
+    <string name="ifaIFAInHand">হাতে আছে</string>
+    <string name="ifaCALGot">পেয়েছেন</string>
+    <string name="ifaCALTaken">খেছেন</string>
+    <string name="ifaCALInHand">হাতে আছে</string>
+
+    <string name="ifa_ifa_stock">আয়রন ফলিক অ্যাসিড কয়টি :</string>
+    <string name="ifa_cal_stock">ক্যালশিয়াম ট্যাবলেটে কয়টি :</string>
+    <string name="ifa_side_effect">আয়রন ফলিক এসিড (IFA) জনিত কোনো পার্শ্ব প্রতিক্রিয়া হয়েছে?</string>
+
+    <!--Community-->
+    <string name="com_info_general">সাধারণ তথ্য</string>
+    <string name="com_info_wast_management">খানা ভিত্তিক বর্জ ব্যাবস্থাপনার তথ্য</string>
+    <string name="com_info_water_management">খানা ভিত্তিক ফুটানো/নিরাপদ পানি পান ও ব্যাবহারের তথ্য</string>
+    <string name="com_info_water_management_visit_date">নিরাপদ পানি পান ও ব্যাবহারের তথ্য পরিদর্শনের তারিখ</string>
+    <string name="com_info_toilet_followup">টয়লেটের ফলোয়াপ তথ্য</string>
+    <string name="com_info_hand_wash">শিশুর হাত ধোয়া ফলোয়াপ তথ্য</string>
+    <string name="com_info_toilet_list">টয়লেট তালিকা</string>
+
+    <string name="comHomeNo">বাড়ির কোড</string>
+    <string name="comHomeName">বাড়ির নাম</string>
+    <string name="comHouseID">ঘরের কোড</string>
+    <string name="comVisitDate">পরিদর্শনের তারিখ</string>
+    <string name="comWasteBinUse">ঘরের বর্জ্য রাখার লাল পাত্রে বর্জ্য ফেলছে কি না ?</string>
+    <string name="comWasteBinCover">ঘরের বর্জ্য রাখার পর পাত্র ঢাকনা দিয়ে ঢাকা আছে কি না?</string>
+    <string name="comWasteBinBlueUse">বাড়িতে নির্দৃষ্ট স্থানে বড় নীল ড্রামে বর্জ্য ফেলছে কিনা ও ড্রাম ঢেকে রাখা হয়েছে কি না বা সরাসরি ভ্যানে ফেলেছে কি না</string>
+    <string name="comWasteBinUseMsg">পূর্ববর্তী তিনটি বিষয়ের যে কোন একটি “না” হলে কাউন্সেলিং করুন ও কাউন্সেলিং বার্তা লিখুন</string>
+    <string name="comDrinkBoilWater">পরিবারটি পানি  ফুটিয়ে পান করছে</string>
+    <string name="comCoverDrinkingWater">পানি রাখা পাত্র ঢাকনা দিয়ে ঢাকা  আছে</string>
+    <string name="comDrinkingWaterUseMsg">পূর্ববর্তী দুইটি বিষয়ের যে কোন একটি “না” হলে কাউন্সেলিং করুন ও কাউন্সেলিং বার্তা লিখুন</string>
+    <string name="comDrinkingWaterOther">অন্য কোন পদ্ধতিতে (যেমন ক্লোরিন ট্যাবলেট, ফিটকিরী ,ফিল্টার, মিনারেল পানি ইত্যাদি) নিরাপদ করছেন কি?</string>
+    <string name="comCbheMember">বাড়িতে অবস্থিত CBHE শিশু সদস্য আছে কি না?</string>
+    <string name="comCvMember">বাড়িতে অবস্থিত CV সদস্য আছে কি না?</string>
+    <string name="comToiletUseMsg">পূর্ববর্তী তিনটি বিষয়ের যে কোন একটি “না” হলে কাউন্সেলিং করুন</string>
+    <string name="comChildToiletUse">বাড়ির বা ঘরের শিশু টয়লেট থেকে বের হয়ে সাবান দিয়ে হাত ধুয়েছে (নাম ও বয়স সিলেক্ট করুন) কি না?</string>
+    <string name="comRemarks">মন্তব্য</string>
+    <string name="comVisitNo">ভিসিট নম্বর</string>
+    <string name="comToiletNumber">টয়লেট  নং</string>
+    <string name="comToiletFollowUpVisitDate">টয়লেট পরিদর্শনের তারিখ</string>
+    <string name="comAttachedToilet">ঘরের সাথে সংযুক্ত</string>
+    <string name="comLockToilet">তালা বদ্ধহীন</string>
+    <string name="comCleanToilet">ভাল অবস্থা/পরিষ্কার</string>
+    <string name="comPosterToilet">৫ টি অভ্যাসের পোস্টার ঝুলানো/দৃশ্যমান</string>
+    <string name="comToiletNumberGr">নং</string>
+    <string name="comAttachedToiletGr">সংযুক্ত</string>
+    <string name="comLockToiletGr">তালা বদ্ধহীন</string>
+    <string name="comCleanToiletGr">পরিষ্কার</string>
+    <string name="comPosterToiletGr">পোস্টার ঝুলানো</string>
+
+    <!--Deworming-->
+    <string name="dew_info_general">সাধারণ তথ্য</string>
+    <string name="dew_info_observation">পরিদর্শন কালীন তথ্য সমুহ</string>
+
+    <string name="dewBenId">সুবিধাভোগীর আইডি</string>
+    <string name="dewBenName">সুবিধাভোগীর নাম</string>
+    <string name="dewDateOfBirth">জন্ম তারিখ</string>
+    <string name="dewAge">সুবিধাভোগীর বয়স</string>
+    <string name="dewVisitDate">কৃমিনাশক সপ্তাহের তারিখ</string>
+    <string name="dewSchool">স্কুলে যায় কিনা?</string>
+    <string name="dewCard">শিশুর কাছে কৃমিনাশক ঔষধের কার্ড আছে কিনা ?</string>
+    <string name="dewDose">ঔষদের ডোজ</string>
+    <string name="dewMssDose">শিশু এমএসএস থেকে এর পূর্বের রাউন্ডে কৃমিনাষক ঔষধ খেয়েছে কিনা</string>
+    <string name="dewIntegration">অন্য কম্পনেন্টের  সাথে ইন্টিগ্রেশন গুলো টিক ছিন্ন দিয়ে সিলেক্ট করুন</string>
+    <string name="dewFollowup">শিশুকে ৭ দিনের মধ্যে ফলো –আপ হয়েছে কিনা</string>
+    <string name="dewRemarks">মন্তব্য</string>
+    <string name="dewVisitNo">ভিসিট নম্বর</string>
+
+    <string name="deworming_round_1">প্রথম রাউন্ড</string>
+    <string name="deworming_round_2">দ্বিতীয় রাউন্ড</string>
+
+    <string name="deworming_school_1">স্কুলে যায় না</string>
+    <string name="deworming_school_6">অন্যান্য স্কুল</string>
+    <string name="deworming_father_name">পিতার নাম</string>
+    <string name="deworming_mother_name">মাতার নাম</string>
+    <string name="deworming_no_father_name">পিতার নাম নেই</string>
+    <string name="deworming_no_mother_name">মাতার নাম নেই</string>
+
+    <!--GMP-->
+    <string name="gmp_info_general">প্রাথমিক তথ্য</string>
+    <string name="gmp_info_observation">জি.এম.পি তথ্য</string>
+
+    <string name="gmpBenId">সুবিধাভোগীর আইডি</string>
+    <string name="gmpBenName">সুবিধাভোগীর নাম</string>
+    <string name="gmpStartDate">শুরুর তারিখ</string>
+    <string name="gmpCareTacker">যত্নকারীর নাম</string>
+    <string name="gmpRelation">সম্পর্ক</string>
+    <string name="gmpMaterials">উপকরণ</string>
+    <string name="gmpGmpDate">জি.এম.পি তারিখ</string>
+    <string name="gmpEs">ই. এস.</string>
+    <string name="gmpWeights">ওজন (কেজি)</string>
+    <string name="gmpHeight">উচ্চতা (সে. মি.)</string>
+    <string name="gmpMuac">মুয়াক (সে. মি.)</string>
+    <string name="gmpReferral">রেফারেল</string>
+    <string name="gmpMnp">এন. এম. পি.</string>
+    <string name="gmpHomeVisit">হোম ভিজিট</string>
+
+    <string name="gmp_term_1">১ বার</string>
+    <string name="gmp_term_2">২ বার</string>
+    <string name="gmp_term_3">৩ বার</string>
+    <string name="gmp_term_4">৪ বার</string>
+    <string name="gmp_term_5">৫ বার</string>
+    <string name="gmp_term_6">৬ বার</string>
+    <string name="gmp_term_7">৭ বার</string>
+    <string name="gmp_term_8">৮ বার</string>
+    <string name="gmp_term_9">৯ বার</string>
+    <string name="gmp_term_10">১০ বার</string>
+
+    <!--Adolescent-->
+    <string name="adolescent_counseling_meeting_info">কাউন্সিলিং সভা তথ্য</string>
+    <string name="adolescent_counseling_meeting_serial_no">কাউন্সিলিং সভা ক্রমিক নং : </string>
+    <string name="adolescent_existing_beneficiary_info">উপস্থিত সুবিধাভোগীর তথ্য</string>
+    <string name="adolescentMeetingNumber">সভা নং</string>
+    <string name="adolescentDate">তারিখ</string>
+    <string name="adolescentMeetingPlace">সভার স্থান/বাড়ির নাম</string>
+    <string name="adolescentMessageNumber">কাউন্সিলিং বার্তা নম্বর</string>
+    <string name="adolescentMessageTitle">বার্তা শিরোনাম</string>
+    <string name="adolescentIntegration">ইন্টিগ্রেশন</string>
+    <string name="adolescentReferralInstitute">রেফারকৃত প্রতিষ্ঠান</string>
+    <string name="adolescentFollowup">ফলোআপ</string>
+    <string name="adolescentRemarks">মন্তব্য</string>
+
+    <!--Courtyard-->
+    <string name="courtyard_session_info">সেশনের তথ্য</string>
+    <string name="courtyard_beneficiary_info_present_in_session">সেশনে উপস্থিত সুবিধাভোগীর তথ্য </string>
+
+    <string name="courtyardMeetingNumber">সেশন নং</string>
+    <string name="courtyardMeetingDate">তারিখ</string>
+    <string name="courtyardMeetingPlace">বৈঠকের স্থান</string>
+    <string name="courtyardSessionType">সেশনের ধরন</string>
+    <string name="courtyardStartTime">শুরু</string>
+    <string name="courtyardEndTime">শেষ</string>
+    <string name="courtyardTitle">সেশনের নাম</string>
+    <string name="courtyardSubject">আলোচ্য বিষয়</string>
+    <string name="courtyardAttendant">সঙ্গীর নাম</string>
+    <string name="courtyardSex">লিঙ্গ</string>
+    <string name="courtyardRelation">সম্পর্ক</string>
+    <string name="courtyardPresent">উপস্থিতি</string>
+
+    <string name="courtyard_relation_1">মা</string>
+    <string name="courtyard_relation_2">বাবা</string>
+    <string name="courtyard_relation_3">বোন</string>
+    <string name="courtyard_relation_4">ভাই</string>
+    <string name="courtyard_relation_5">শাশুড়ি</string>
+    <string name="courtyard_relation_6">ননদ</string>
+
+    <string name="courtyard_subject_CBHE_1">ব্যক্তিগত পরিষ্কার পরিচ্ছন্নতা ও হাত ধোয়া</string>
+    <string name="courtyard_subject_CBHE_2">নিরাপদ পানি</string>
+    <string name="courtyard_subject_CBHE_3">স্বাস্থ্যসম্মত টয়লেট সঠিকভাবে ব্যাবহারের ৫ টি অভ্যাস</string>
+    <string name="courtyard_subject_CBHE_4">খাদ্য ও পুষ্টি</string>
+
+    <string name="courtyard_subject_ARSH_1">জীবন দক্ষতা</string>
+    <string name="courtyard_subject_ARSH_2">বয়ঃসন্ধিকালীন শারীরিক ও মানসিক পরিবর্তন ও করনীয়</string>
+    <string name="courtyard_subject_ARSH_3">মাসিক কালীন পরিচর্যা/স্বপ্নদোষ</string>
+    <string name="courtyard_subject_ARSH_4">কৈশোরে খাদ্য ও পুষ্টি</string>
+    <string name="courtyard_subject_ARSH_5">মাদক ও নেশা</string>
+    <string name="courtyard_subject_ARSH_6">যৌন হয়রানি</string>
+    <string name="courtyard_subject_ARSH_7">প্রজনন স্বাস্থ্য</string>
+    <string name="courtyard_subject_ARSH_8">শিশু বিবাহ প্রতিরোধ</string>
+
+    <!--Session-->
+    <string name="session_session_info">সেশনের তথ্য</string>
+    <string name="session_beneficiary_info_present_in_session">সুবিধাভোগীর তথ্য </string>
+
+    <string name="sessionMeetingNumber">সেশন নং</string>
+    <string name="sessionMeetingDate">তারিখ</string>
+    <string name="sessionMeetingPlace">সেশনের স্থান</string>
+    <string name="sessionSessionType">সেশনের ধরন</string>
+    <string name="sessionStartTime">শুরু</string>
+    <string name="sessionEndTime">শেষ</string>
+    <string name="sessionSubject">আলোচ্য বিষয়</string>
+    <string name="sessionParticipantType">সদস্য ধরন</string>
+
+    <string name="session_session_type_1">গর্ভবতী মার সেশন</string>
+    <string name="session_session_type_2">স্বামী এবং শাশুড়ির সেশন</string>
+    <string name="session_session_type_3">CBHE (৫-১২ বছর) সেশন</string>
+    <string name="session_session_type_4">CBHE (১৩-১৯ বছর) সেশন</string>
+    <string name="session_session_type_5">ARSH (ছেলে) সেশন</string>
+    <string name="session_session_type_6">ARSH (মেয়ে) সেশন</string>
+
+    <string name="session_participant_type_1">শিশু</string>
+    <string name="session_participant_type_2">পিতামাতা</string>
+    <string name="session_participant_type_3">যত্নকারী</string>
+
+    <!--House Hold Service-->
+    <string name="house_hold_mobile_message">মোবাইল বার্তা</string>
+    <string name="house_hold_tv_message">টিভি বার্তা</string>
+    <string name="house_hold_leaflet_poster">লিফ্লেট এবং পোস্টার বিতরন</string>
+    <string name="house_hold_garbage_management">বর্জ্য ব্যাবস্থাপনায় সাহায্য পান</string>
+    <string name="house_hold_mikeing_for_boiled_water">পানি ফুটিয়ে খাওয়ার জন্য মাইকিং / উদ্যোগ</string>
+
+    <string name="weightHint">কে.জি</string>
+    <string name="temperatureHint">ফারেনহাইট</string>
+    <string name="heartRateHint">প্রতি মিনিটে</string>
+    <string name="sponsor_child">স্পন্সর শিশু</string>
+    <string name="member_count">সদস্য সংখ্যা</string>
+
+    <string name="GmpMaterialList1">শিশু বিকাশ কার্ড</string>
+    <string name="GmpMaterialList2">আমার জগৎ</string>
+    <string name="GmpMaterialList3">আমার বাড়ি</string>
+    <string name="GmpMaterialList4">জিএমপি কার্ড</string>
+
+    <!--new added for October Launching-->
+    <string name="group_type">দলের ধরন</string>
+    <string name="group_name">দলের নাম</string>
+    <string name="group_year">দলের বছর</string>
+    <string name="group_code">দলের কোড</string>
+    <string name="father_name">বাবার নাম</string>
+    <string name="mother_name">মায়ের নাম</string>
+    <string name="group_info">দলের তথ্য</string>
+    <string name="member_info">সদস্য তথ্য</string>
+    <string name="member_list">সদস্য তালিকা</string>
+    <string name="is_deactivate">কার্যক্রম বন্ধ ?</string>
+    <string name="formation_date">গঠনের তারিখ</string>
+    <string name="deactivation_date">কার্যক্রম বন্ধের তারিখ</string>
+    <string name="is_dropped_out">ঝড়ে পড়েছে কিনা ?</string>
+    <string name="join_date">যোগদানের তারিখ</string>
+    <string name="dropout_date">ঝড়ে পড়ার তারিখ</string>
+    <string name="dropout_reason">ঝড়ে পড়ার কারন</string>
+    <string name="presence">উপস্থিতি</string>
+    <string name="member">সদস্য</string>
+    <string name="dropout_reason_1">দলের কার্যক্রম বন্ধ</string>
+    <string name="dropout_reason_2">স্থানন্তর</string>
+    <string name="dropout_reason_3">মৃত্যু</string>
+    <string name="group_search_hint">দলের নাম দিয়ে খুঁজুন</string>
+    <string name="visit_date">সি ও পরিদর্শনের তারিখ</string>
+    <string name="input_home_name">বাড়ির নাম প্রবেশ করুন</string>
+    <string name="ben_parents_update">পিতা-মাতার তথ্য নবায়ন</string>
+    <string name="muacColor">মুয়াক (রং)</string>
+    <string name="muac1">সবুজ</string>
+    <string name="muac2">হলুদ</string>
+    <string name="muac3">কমলা</string>
+    <string name="muac4">লাল</string>
+    <string name="not_selected">সিলেক্ট করা হয়নি</string>
+    <string name="home_visit_time_1">সকাল</string>
+    <string name="home_visit_time_2">দুপুর</string>
+    <string name="home_visit_time_3">বিকাল</string>
+    <string name="facilitatorId">ফ্যাসিলিটেটর আইডি</string>
+    <string name="facilitatorName">ফ্যাসিলিটেটর নাম</string>
+    <string name="pregnant_women_rc_session_subject_1">গর্ভবতী চারবার চেকআপ (সাফ কথা-১)</string>
+    <string name="pregnant_women_rc_session_subject_2">প্রসবের পরিকল্পনা ও প্রস্তুতি (সাফ কথা-২)</string>
+    <string name="pregnant_women_rc_session_subject_3">নবজাতকের অত্যাবশ্যকীয় পরিচর্যা (সাফ কথা-৩)</string>
+    <string name="pregnant_women_rc_session_subject_4">নবজাতকের সংক্রমন প্রতিরোধ (সাফ কথা- ৪)</string>
+    <string name="pregnant_women_rc_session_subject_5">নবজাতকের বিপদচিহ্ন (সাফ কথা- ৫)</string>
+    <string name="pregnant_women_rc_session_subject_6">প্রসবপূর্ব, প্রসবকালীন, প্রসব পরবর্তী বিপদচিহ্ন (সাফ কথা- ৬)</string>
+    <string name="pregnant_women_rc_session_subject_7">প্রসবপূর্ব, প্রসব পরবর্তী পরিচর্যা, মা ও নবজাতকের সুবক্ষা (সাফ কথা- ৭)</string>
+    <string name="pregnant_women_rc_session_subject_8">গর্ভবতী মা ও গর্ভে থাকা শিশুর যত্ন ও পরিবারের দায়িত্ব</string>
+    <string name="pregnant_women_rc_session_subject_9">শিশুর যত্নে স্বামী ও স্ত্রীর দায়িত্ব</string>
+    <string name="sdwf_filter_1">ক্লোরিন ট্যাবলেট</string>
+    <string name="sdwf_filter_2">ফিটকিরী</string>
+    <string name="sdwf_filter_3">ফিল্টার</string>
+    <string name="sdwf_filter_4">মিনারেল পানি</string>
+    <string name="waste_counselling_1">ঘরে বর্জ্য রাখার লাল পাত্রে বর্জ্য ফেলুন</string>
+    <string name="waste_counselling_2">ঘরের বর্জ্য রাখার লাল পাত্র ঢাকনা দিয়ে ঢেকে রাখুন</string>
+    <string name="waste_counselling_3">বাড়িতে নির্দৃষ্ট স্থানে/ বড় নীল ড্রামে/ ভ্যানে বর্জ্য ফেলুন</string>
+    <string name="toilet_counselling_1">টয়লেট খোলা/ তালাবদ্ধহীন রাখুন</string>
+    <string name="toilet_counselling_2">টয়লেট পরিষ্কার রাখুন</string>
+    <string name="toilet_counselling_3">টয়লেট এর সামনে ৫ টি অভ্যাসের পোস্টার ঝুলিয়ে রাখুন</string>
+    <string name="water_counselling_1">পানি ফুটিয়ে পান করুন</string>
+    <string name="water_counselling_2">পানি রাখার পাত্র ঢাকনা দিয়ে ঢেকে রাখুন</string>
+
+    <string name="parents_gender_error">সঠিক লিঙ্গ সিলেক্ট করুন</string>
+    <string name="select_correct_ben">সঠিক সুবিধাভোগী নির্বাচন করুন</string>
+    <string name="age">বয়স</string>
+</resources>
